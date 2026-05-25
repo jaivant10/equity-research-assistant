@@ -15,7 +15,9 @@ for any stock ticker using live market data with Yahoo Finance.
 - yFinance (Yahoo Finance)
 
 ## How to Run It
-1. Clone the repo
-2. Install dependencies: `pip install google-genai yfinance`
-3. Add your Gemini API key to main.py
-4. Run: `python main.py`
+1. Clone the repository
+2. Install dependencies:
+   `pip install google-genai yfinance`
+3. Add your Google Gemini API key to line 4
+4. Run:
+   `python main.py`
